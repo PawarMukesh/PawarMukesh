@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **mukeshpawar8793@gmail.com**
 
+- 📫 How to reach me via linkedin **https://www.linkedin.com/in/mukesh-pawar-0ba10114b/**
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QCAntSGqdToPBYTwokfzCIQb_lCiCwwO/view?usp=drivesdk](https://drive.google.com/file/d/1QCAntSGqdToPBYTwokfzCIQb_lCiCwwO/view?usp=drivesdk)
 
 - ⚡ Fun fact **Read a research paper in the morning, write down the algorithm in afternoon, and code it up in the evening. It is really fun!**
@@ -22,8 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mukeshp38501128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukeshp38501128" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mukesh pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukesh pawar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/preferences/19405928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/preferences/19405928" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukesh-pawar-0ba10114b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukesh-pawar-0ba10114b/" height="30" width="40" /></a>
 <a href="https://instagram.com/_mukeshpawar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mukeshpawar_" height="30" width="40" /></a>
 </p>
 
