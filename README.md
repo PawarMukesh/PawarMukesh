@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Indian Sign Language Detector**
 
-- 🌱 I’m currently learning **Deep learning and Natural language processing (NLP)**
+- 🌱 I’m currently learning **Natural language processing (NLP)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PawarMukesh](https://github.com/PawarMukesh)
 
-- 📝 I write articles on [Convolutional Neural Network](Convolutional Neural Network)
+- 📝 I write articles on Convolutional Neural Network(CNN)
 
 - 📫 How to reach me **mukeshpawar8793@gmail.com**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QCAntSGqdToPBYTwokfzCIQb_lCiCwwO/view?usp=drivesdk](https://drive.google.com/file/d/1QCAntSGqdToPBYTwokfzCIQb_lCiCwwO/view?usp=drivesdk)
 
-- ⚡ Fun fact **Read a research paper in the morning, write down the algorithm in afternoon, and code it up in the evening. It is really fun!**
+- ⚡ Fun fact **Read a research paper in the morning, write down the algorithm in afternoon, and code it up in the evening. It is really fun:slightly_smiling_face:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
