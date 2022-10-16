@@ -1,3 +1,5 @@
+![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/Banner1.jpg)
+
 <h1 align="center">Hi 👋, I'm Mukesh Pawar</h1>
 <h3 align="center">Aspiring data scientist from India</h3>
 
@@ -15,11 +17,9 @@
 
 - 📫 How to reach me **mukeshpawar8793@gmail.com**
 
-- 📫 How to reach me via linkedin **https://www.linkedin.com/in/mukesh-pawar-0ba10114b/**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QCAntSGqdToPBYTwokfzCIQb_lCiCwwO/view?usp=drivesdk](https://drive.google.com/file/d/1QCAntSGqdToPBYTwokfzCIQb_lCiCwwO/view?usp=drivesdk)
 
-- ⚡ Fun fact **Read a research paper in the morning, write down the algorithm in afternoon, and code it up in the evening. It is really fun:slightly_smiling_face:
+- ⚡ Fun fact **Read a research paper in the morning, write down the algorithm in afternoon, and code it up in the evening. It is really fun:slightly_smiling_face:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
