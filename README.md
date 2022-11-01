@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mukeshpawar8793@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QCAntSGqdToPBYTwokfzCIQb_lCiCwwO/view?usp=drivesdk](https://drive.google.com/file/d/1QCAntSGqdToPBYTwokfzCIQb_lCiCwwO/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XCljvfKXAAspf3LZEgqQMImffk-A_HDA/view?usp=sharing](https://drive.google.com/file/d/1XCljvfKXAAspf3LZEgqQMImffk-A_HDA/view?usp=sharing)
 
 - ⚡ Fun fact **Read a research paper in the morning, write down the algorithm in afternoon, and code it up in the evening. It is really fun:slightly_smiling_face:**
 
