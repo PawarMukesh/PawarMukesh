@@ -15,7 +15,7 @@
 
 - 📝 I write articles on Convolutional Neural Network(CNN)
 
-- 📫 How to reach me **mukeshpawar8793@gmail.com**
+- 📫 How to reach me **mukeshpawar.nsk@gmail.com**
 
 - ⚡ Fun fact **Read a research paper in the morning, write down the algorithm in afternoon, and code it up in the evening. It is really fun:slightly_smiling_face:**
 
