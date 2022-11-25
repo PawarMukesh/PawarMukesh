@@ -1,4 +1,4 @@
-![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/img.jpeg)
+![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/what-is-a-hacker-what-is-hacking-featured-1024x512.png)
 
 <h1 align="center">Hi 👋, I'm Mukesh Pawar</h1>
 <h3 align="center">Aspiring data scientist from India</h3>
@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarmukesh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarmukesh" /> </p>
 
-- 🔭 I’m currently working on **Indian Sign Language Detector**
+- 🔭 I’m currently working on **Traffic Sign Detection**
 
-- 🌱 I’m currently learning **Natural language processing (NLP)**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PawarMukesh](https://github.com/PawarMukesh)
 
