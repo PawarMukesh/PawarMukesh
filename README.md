@@ -1,4 +1,4 @@
-![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/git_banner1.png)
+![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Mukesh Pawar</h1>
 <h3 align="center">Aspiring data scientist from India</h3>
