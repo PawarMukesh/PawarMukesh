@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarmukesh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarmukesh" /> </p>
 
-- 🔭 I’m currently working on **Paraphrases Detection**
 
 - 🌱 I’m currently learning **NLP**
 
