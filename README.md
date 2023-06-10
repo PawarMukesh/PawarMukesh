@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mukesh D. Pawar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748"
+<img align="right" alt="coding" width="300" src="https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetadkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="shwetadkulkarni" /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarmukesh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarmukesh" /> </p>
 
