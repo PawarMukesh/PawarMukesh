@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mukeshp4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mukeshp4912" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukesh-pawar-0ba10114b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukesh-pawar-0ba10114b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mukesh-pawar-0ba10114b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjp%2Baq5zmR7i2e7RVuxZCCA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukesh-pawar-0ba10114b" height="30" width="40" /></a>
 <a href="https://instagram.com/_mukeshpawar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mukeshpawar_" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mukeshpawar8793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mukeshpawar8793" height="30" width="40" /></a>
 </p>
