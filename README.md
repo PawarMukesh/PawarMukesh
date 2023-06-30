@@ -1,4 +1,4 @@
-![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/Github%20banner%203.gif)
+![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
