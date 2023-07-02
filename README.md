@@ -46,7 +46,7 @@ Unveiling the hidden truths within data drives my passion as a data scientist ğŸ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### ğŸ” Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PawarMukesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=PawarMukesh&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
 
