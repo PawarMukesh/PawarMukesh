@@ -4,7 +4,8 @@
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Mukesh Pawar, A passionate Data Scientist from India 
+         width="45" /> I'm Mukesh Pawar
+        <h2>Unveiling the hidden truths within data drives my passion as a data scientist.</h2>
 
 # 💫 About Me:
 📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>💬 Ask me about AI/ML<br><br>📫 How to reach me mukeshpawar.nsk@gmail.com<br><br>⚡ Fun fact Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun 🙂
@@ -43,8 +44,7 @@
 
 
   
-<b>❤️ Thank you for visiting my GitHub profile! Your presence is greatly appreciated. ❤️</b>
+<b>❤️ Grateful for every pair of eyes that land on my GitHub. Thank you for being a part of my open-source adventure! ❤️</b>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
