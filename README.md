@@ -39,7 +39,7 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PawarMukesh&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=PawarMukesh&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
