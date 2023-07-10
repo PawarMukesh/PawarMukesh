@@ -7,7 +7,7 @@
          height="45"
          width="45" /> I'm Mukesh Pawar
          
-         Unveiling the hidden truths within data drives my passion as a data scientist 👩‍💻 </h2>
+         Unveiling the hidden truths within data drives my passion as a data scientist 👩‍💻 
 
 <h2 align="center"> 
 
