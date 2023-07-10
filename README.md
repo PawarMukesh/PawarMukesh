@@ -11,10 +11,6 @@
 
 <h2 align="center"> 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="800px">
-
-
-
 # 💫 About Me:
 
 📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>💬 Ask me about AI/ML<br><br>📫 How to reach me mukeshpawar.nsk@gmail.com<br><br>⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun 🙂
