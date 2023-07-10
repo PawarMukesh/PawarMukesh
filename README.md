@@ -1,18 +1,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarmukesh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarmukesh" /> </p>
 
+![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
+
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Mukesh Pawar
 <h2 align="center"> 
-
-![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
-
          
 Unveiling the hidden truths within data drives my passion as a data scientist 👩‍💻 </h2>
 
 # 💫 About Me:
-📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>💬 Ask me about AI/ML<br><br>📫 How to reach me mukeshpawar.nsk@gmail.com<br><br>⚡ Fun fact :Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun 🙂
+📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>💬 Ask me about AI/ML<br><br>📫 How to reach me mukeshpawar.nsk@gmail.com<br><br>⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun 🙂
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
