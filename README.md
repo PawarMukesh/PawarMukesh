@@ -44,9 +44,15 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PawarMukesh&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PawarMukesh&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
