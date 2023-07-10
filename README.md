@@ -1,12 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarmukesh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarmukesh" /> </p>
 
-![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Mukesh Pawar
-
 <h2 align="center"> 
+
+![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
+
          
 Unveiling the hidden truths within data drives my passion as a data scientist 👩‍💻 </h2>
 
