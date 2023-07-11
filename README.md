@@ -14,7 +14,7 @@
 # 💫 About Me:
 📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>
 
-<img align="right" alt="coding" width="500" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/Animated%20Gif.gif">
+<img align="right" alt="coding" width="200" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/Animated%20Gif.gif">
 
 💬 Ask me about Data Science (AI/ML)<br><br>
 
