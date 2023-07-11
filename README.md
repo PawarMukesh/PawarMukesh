@@ -12,7 +12,15 @@
 <h2 align="center"> 
          
 # 💫 About Me:
-📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>💬 Ask me about Data Science (AI/ML)<br><br>📫 How to reach me mukeshpawar.nsk@gmail.com<br><br>⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun 🙂
+📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>
+
+<img align="right" alt="coding" width="300" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/Animated%20Gif.gif">
+
+💬 Ask me about Data Science (AI/ML)<br><br>
+
+📫 How to reach me mukeshpawar.nsk@gmail.com<br><br>
+
+⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun 🙂
 
 ## 🌐 Socials: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-pawar-0ba10114b/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mukesh-D-Pawar-1) 
