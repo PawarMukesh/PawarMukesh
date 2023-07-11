@@ -1,3 +1,7 @@
+![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarmukesh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarmukesh" /> </p>
 
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -8,10 +12,6 @@
 
 <h2 align="center"> 
 
-![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarmukesh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarmukesh" /> </p>
 
 # 💫 About Me:
 
