@@ -21,6 +21,7 @@
 📫 How to reach me mukeshpawar.nsk@gmail.com<br><br>
 
 ⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun 🙂
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
 
 ## 🌐 Socials: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-pawar-0ba10114b/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mukesh-D-Pawar-1) 
@@ -48,7 +49,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
+
   
 <b>❤️ Grateful for every pair of eyes that land on my GitHub. Thank you for being a part of my open-source adventure! ❤️</b>
 </div>
