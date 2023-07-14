@@ -7,9 +7,10 @@
          height="45"
          width="45" /> I'm Mukesh Pawar
          
-         Unveiling the hidden truths within data drives my passion as a data scientist 👩‍💻 
 
 <h2 align="center"> 
+
+Unveiling the hidden truths within data drives my passion as a data scientist 👩‍💻 
          
 # 💫 About Me:
 📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>
