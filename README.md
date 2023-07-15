@@ -2,10 +2,10 @@
 
 ![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
 
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hii there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Mukesh Pawar
+         width="45"/>I'm Mukesh Pawar
          
 
 <h2 align="center"> 
@@ -47,12 +47,12 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="800px">
   
 <b>❤️ Grateful for every pair of eyes that land on my GitHub. Thank you for being a part of my open-source adventure! ❤️</b>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="800px">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
