@@ -14,7 +14,7 @@
 <h2 align="center"> 
          
 # 💫 About Me:
-📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>
+📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics.<br><br>
 
 💬 Ask me about Data Science (AI/ML)<br><br>
 
