@@ -1,4 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarmukesh&label=Profile%20views&color=0e75b6&style=flat" alt="pawarmukesh" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=pawarmukesh&style=for-the-badge&color=orange)
+[![pawarmukesh's stars](https://custom-icon-badges.demolab.com/github/stars/pawarmukesh?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
+
+
+
 
 ![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
 
