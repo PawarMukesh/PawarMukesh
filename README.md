@@ -18,7 +18,7 @@
 
 Unveiling the hidden truths within data drives my passion as a data scientist 👩‍💻 
          
-# 💫 About Me: <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> 
+# 💫 About Me: 
 
 📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>
 
@@ -57,7 +57,7 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
   
-<b>❤️ Grateful for every pair of eyes that land on my GitHub. Thank you for being a part of my open-source adventure! ❤️</b>
+<b>❤️ Grateful for every pair of eyes on my GitHub. Thank you for being a part of my open-source adventure! ❤️</b>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
