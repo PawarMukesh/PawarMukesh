@@ -18,7 +18,7 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 
 # 💫 About Me: 
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>
 
