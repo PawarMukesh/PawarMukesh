@@ -1,5 +1,3 @@
-![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
-
 ![Profile views](https://komarev.com/ghpvc/?username=pawarmukesh&style=for-the-badge&color=orange)
 [![pawarmukesh's stars](https://custom-icon-badges.demolab.com/github/stars/pawarmukesh?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
