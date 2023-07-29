@@ -12,8 +12,7 @@
 </p>
          
 
-<h2 align="center"> 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
+<h2 align="center">
          
 Unveiling the hidden truths within data drives my passion as a data scientist 👩‍💻 
 
