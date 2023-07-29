@@ -1,10 +1,9 @@
+![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
+
 ![Profile views](https://komarev.com/ghpvc/?username=pawarmukesh&style=for-the-badge&color=orange)
 [![pawarmukesh's stars](https://custom-icon-badges.demolab.com/github/stars/pawarmukesh?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Up+and+Coming+Analyst📊;Data+Scientist+👩‍🔬;AI+Engineer🛠️;Coder+💻;)](https://git.io/typing-svg)
-
-![logo](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/1626753867110.gif)
 
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
