@@ -32,13 +32,9 @@ Unveiling the hidden truths within data drives my passion as a data scientist ü
 # üåê Socials: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshpawar.nsk@gmail.com) <br><br>
-
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-pawar-0ba10114b/)
-
 [![Hackerrank](https://img.shields.io/badge/hackerrank-39E09B?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mukeshpawar8793?hr_r=1)
-
 [![Geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2F4F4F?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mukeshpa29f2)
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_mukeshpawar_)
 
 
