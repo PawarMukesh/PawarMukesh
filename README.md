@@ -24,11 +24,9 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 
 💬 Ask me about Data Science (AI/ML)<br><br>
 
-📫 How to reach me mukeshpawar.nsk@gmail.com<br><br>
-
 ⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun 🙂
 
-# 📫 Contact: 
+# 📧 Contact: 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshpawar.nsk@gmail.com)
 
 
