@@ -24,7 +24,7 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 
 💬 Ask me about Data Science (AI/ML)<br><br>
 
-📫 How to reach me [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshpawar.nsk@gmail.com) <br><br>
+📫 How to reach me    [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshpawar.nsk@gmail.com) <br><br>
 
 ⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun 🙂
 
@@ -35,8 +35,6 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 [![Hackerrank](https://img.shields.io/badge/hackerrank-39E09B?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mukeshpawar8793?hr_r=1)
 
 [![Geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2F4F4F?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mukeshpa29f2)
-
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Mukesh-D-Pawar-1) 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_mukeshpawar_)
 
