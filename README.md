@@ -24,12 +24,15 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 
 💬 Ask me about Data Science (AI/ML)<br><br>
 
-📫 How to reach me    [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshpawar.nsk@gmail.com) <br><br>
+🌟 "Data science unveils hidden patterns in vast information, transforming data into valuable insights guiding decisions and fueling innovation"
 
 ⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun 🙂
 
 
 # 🌐 Socials: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshpawar.nsk@gmail.com) <br><br>
+
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-pawar-0ba10114b/)
 
 [![Hackerrank](https://img.shields.io/badge/hackerrank-39E09B?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mukeshpawar8793?hr_r=1)
