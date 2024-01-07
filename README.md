@@ -91,8 +91,10 @@ Unveiling the hidden truths within data drives my passion as a data scientist ðŸ
 | Machine Learning | [Chance-of-Admission-prediction ](https://github.com/PawarMukesh/Chance-of-Admission-prediction) | [view](https://github.com/PawarMukesh/Chance-of-Admission-prediction) |`Machine Learning,Python`  |
 | Machine Learning | [SalesForce-Effectiveness ](https://github.com/PawarMukesh/SalesForce-Effectiveness) | [view](https://github.com/PawarMukesh/SalesForce-Effectiveness) |`Machine Learning,Python`  |
 | Machine Learning | [Clustering-Healthy-LifestyleCity  ](https://github.com/PawarMukesh/Clustering-Healthy-LifestyleCity) | [view](https://github.com/PawarMukesh/Clustering-Healthy-LifestyleCity) |`Machine Learning,Python`  |
-
-
+| NLP | [Word-Enbedding-With-NN ](https://github.com/PawarMukesh/Word-Enbedding-With-NN) | [view](https://github.com/PawarMukesh/Word-Enbedding-With-NN) |`NLP,Python`  |
+| NLP | [NLP-Text-PreProcessing](https://github.com/PawarMukesh/NLP-Text-PreProcessing) | [view](https://github.com/PawarMukesh/NLP-Text-PreProcessing) |`NLP,Python`  |
+| CNN | [Covid19-ImageClassification](https://github.com/PawarMukesh/Covid19-ImageClassification) | [view](https://github.com/PawarMukesh/Covid19-ImageClassification) |`cnn classification` `python`  | 
+| CNN | [Asteroid-Classification](https://github.com/PawarMukesh/Asteroid-Classification)| [view](https://github.com/PawarMukesh/Asteroid-Classification) |`cnn classification` `python`  | 
 
 # ðŸ“Š GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PawarMukesh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
