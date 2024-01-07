@@ -82,7 +82,10 @@ Unveiling the hidden truths within data drives my passion as a data scientist ðŸ
 | Deep Learning | [German-Traffic-Sign-Detction](https://github.com/PawarMukesh/German-Traffic-Sign-Detction) | [view](https://github.com/PawarMukesh/German-Traffic-Sign-Detction) |`Deep Learning` `Image Classification` `Python`| 
 | Deep Learning | [IndianSign-Language-Detector ](https://github.com/PawarMukesh/IndianSign-Language-Detector) | [view](https://github.com/PawarMukesh/IndianSign-Language-Detector) |`Deep Learning` `Image Classification` `Python`| 
 | Deep Learning | [MalariaCell-Detector  ](https://github.com/PawarMukesh/MalariaCell-Detector) | [view](https://github.com/PawarMukesh/MalariaCell-Detector) |`Deep Learning` `Image Classification` `Python`| 
-| Deep Learning | [ RiceLeaf-Disease-Detector ](https://github.com/PawarMukesh/RiceLeaf-Disease-Detector) | [view](https://github.com/PawarMukesh/RiceLeaf-Disease-Detector) |`Deep Learning` `Image Classification` `Python`| 
+| Deep Learning | [ RiceLeaf-Disease-Detector ](https://github.com/PawarMukesh/RiceLeaf-Disease-Detector) | [view](https://github.com/PawarMukesh/RiceLeaf-Disease-Detector) |`Deep Learning` `Image Classification` `Python`|
+| Machine Learning | [Employee-Performance-Analysis ](https://github.com/PawarMukesh/Employee-Performance-Analysis) | [view](https://github.com/PawarMukesh/Employee-Performance-Analysis) |`Machine Learning,Python`  |
+| Machine Learning | [Customer-Transaction-Prediction ](https://github.com/PawarMukesh/Customer-Transaction-Prediction) | [view](https://github.com/PawarMukesh/Customer-Transaction-Prediction) |`Machine Learning,Python`  |
+| Machine Learning | [Fifa20-Clustering  ](https://github.com/PawarMukesh/Fifa20-Clustering) | [view](https://github.com/PawarMukesh/Fifa20-Clustering) |`Machine Learning,Python`  |
 
 
 # ðŸ“Š GitHub Stats:
