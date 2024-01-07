@@ -18,7 +18,7 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 
 # 💫 About Me: 
 
-<img align="right" alt="coding" width="400" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/MP%20Gif.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/Gif.gif">
 
 📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>
 
