@@ -20,9 +20,9 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 
 <img align="right" alt="coding" width="400" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/Gif.gif">
 
-📝 I’m currently pursuing in M.Sc Data Science & Spatial Analytics<br><br>
+📝 I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics.<br><br>
 
-💬 Ask me about Data Science (AI/ML)<br><br>
+💬 Ask me about Data Science. (AI/ML)<br><br>
 
 🌟 "Data science unveils hidden patterns in vast information, transforming data into valuable insights guiding decisions and fueling innovation"
 
