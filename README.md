@@ -18,7 +18,7 @@ Unveiling the hidden truths within data drives my passion as a data scientist ü
 
 # üí´ About Me: 
 
-<img align="right" alt="coding" width="400" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/MP%20Gif.gif">
+<img align="right" alt="coding" width="200" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/MP%20Gif.gif">
 
 üìù I‚Äôm Currently Pursuing in M.Sc Data Science & Spatial Analytics.<br><br>
 
@@ -82,6 +82,8 @@ Unveiling the hidden truths within data drives my passion as a data scientist ü
 | MalariaCell Detector | Deep Learning   | [view](https://github.com/PawarMukesh/MalariaCell-Detector) |`Deep Learning` `Image Classification` `Python`| 
 | RiceLeaf Disease Detector | Deep Learning   | [view](https://github.com/PawarMukesh/RiceLeaf-Disease-Detector) |`Deep Learning` `Image Classification` `Python`|
 |  FuseDetector | Deep Learning  | [view](https://github.com/PawarMukesh/FuseDetector) |`Deep Learning` `Image Classification` `Python`|
+| Covid19 ImageClassification | Deep Learning | [view](https://github.com/PawarMukesh/Covid19-ImageClassification) |`cnn classification` `python`  | 
+| Asteroid Classification | Deep Learning | [view](https://github.com/PawarMukesh/Asteroid-Classification) |`cnn classification` `python`  | 
 | Employee Performance Analysis | Machine Learning   | [view](https://github.com/PawarMukesh/Employee-Performance-Analysis) |`Machine Learning,Python`  |
 | Customer Transaction Prediction | Machine Learning  | [view](https://github.com/PawarMukesh/Customer-Transaction-Prediction) |`Machine Learning,Python`  |
 | Fifa20 Clustering | Machine Learning  | [view](https://github.com/PawarMukesh/Fifa20-Clustering) |`Machine Learning,Python`  |
@@ -92,8 +94,6 @@ Unveiling the hidden truths within data drives my passion as a data scientist ü
 | Clustering Healthy LifestyleCity | Machine Learning   | [view](https://github.com/PawarMukesh/Clustering-Healthy-LifestyleCity) |`Machine Learning,Python`  |
 | Word Enbedding With NN | NLP | [view](https://github.com/PawarMukesh/Word-Enbedding-With-NN) |`NLP,Python`  |
 | NLP Text PreProcessing | NLP | [view](https://github.com/PawarMukesh/NLP-Text-PreProcessing) |`NLP,Python`  |
-| Covid19 ImageClassification | Deep Learning | [view](https://github.com/PawarMukesh/Covid19-ImageClassification) |`cnn classification` `python`  | 
-| Asteroid Classification | Deep Learning | [view](https://github.com/PawarMukesh/Asteroid-Classification) |`cnn classification` `python`  | 
 
 # üìä GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PawarMukesh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
