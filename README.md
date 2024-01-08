@@ -74,7 +74,7 @@ Unveiling the hidden truths within data drives my passion as a data scientist ðŸ
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
 | Projects |  | Repository | Tech Stack & Tools |
-|:---------|:----------:|:-------------------|
+|:---------|:----------:|:----------:|:-------------------|
 | Deep Learning |  | -  | 
 | Deep Learning | [Face-Mask-Detection ] | [view](https://github.com/PawarMukesh/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
 | Deep Learning | [Paraphrases-Detection] | [view](https://github.com/PawarMukesh/Paraphrases-Detection) |`Deep Learning` `Yolov5` `Python`| 
