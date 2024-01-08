@@ -92,7 +92,7 @@ Unveiling the hidden truths within data drives my passion as a data scientist ðŸ
 | Machine Learning | [SalesForce-Effectiveness ] | [view](https://github.com/PawarMukesh/SalesForce-Effectiveness) |`Machine Learning,Python`  |
 | Machine Learning | [Clustering-Healthy-LifestyleCity  ] | [view](https://github.com/PawarMukesh/Clustering-Healthy-LifestyleCity) |`Machine Learning,Python`  |
 | NLP | [Word-Enbedding-With-NN ] | [view](https://github.com/PawarMukesh/Word-Enbedding-With-NN) |`NLP,Python`  |
-| NLP | [NLP-Text-PreProcessing]| [view](https://github. com/PawarMukesh/NLP-Text-PreProcessing) |`NLP,Python`  |
+| NLP | [NLP-Text-PreProcessing] | [view](https://github. com/PawarMukesh/NLP-Text-PreProcessing) |`NLP,Python`  |
 | CNN | [Covid19-ImageClassification] | [view](https://github.com/PawarMukesh/Covid19-ImageClassification) |`cnn classification` `python`  | 
 | CNN | [Asteroid-Classification] | [view](https://github.com/PawarMukesh/Asteroid-Classification) |`cnn classification` `python`  | 
 
