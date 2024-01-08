@@ -75,26 +75,25 @@ Unveiling the hidden truths within data drives my passion as a data scientist ðŸ
 
 | Projects |  | Repository | Tech Stack & Tools |
 |:---------|:----------:|:----------:|:-------------------|
-| Deep Learning |  | -  | 
-| Deep Learning | [Face-Mask-Detection ] | [view](https://github.com/PawarMukesh/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
-| Deep Learning | [Paraphrases-Detection] | [view](https://github.com/PawarMukesh/Paraphrases-Detection) |`Deep Learning` `Yolov5` `Python`| 
-| Deep Learning | [German-Traffic-Sign-Detction] | [view](https://github.com/PawarMukesh/German-Traffic-Sign-Detction) |`Deep Learning` `Image Classification` `Python`| 
-| Deep Learning | [IndianSign-Language-Detector ] | [view](https://github.com/PawarMukesh/IndianSign-Language-Detector) |`Deep Learning` `Image Classification` `Python`| 
-| Deep Learning | [MalariaCell-Detector  ] | [view](https://github.com/PawarMukesh/MalariaCell-Detector) |`Deep Learning` `Image Classification` `Python`| 
-| Deep Learning | [ RiceLeaf-Disease-Detector ] | [view](https://github.com/PawarMukesh/RiceLeaf-Disease-Detector) |`Deep Learning` `Image Classification` `Python`|
-| Deep Learning | [ FuseDetector  ] | [view](https://github.com/PawarMukesh/FuseDetector) |`Deep Learning` `Image Classification` `Python`|
-| Machine Learning | [Employee-Performance-Analysis ] | [view](https://github.com/PawarMukesh/Employee-Performance-Analysis) |`Machine Learning,Python`  |
-| Machine Learning | [Customer-Transaction-Prediction ] | [view](https://github.com/PawarMukesh/Customer-Transaction-Prediction) |`Machine Learning,Python`  |
-| Machine Learning | [Fifa20-Clustering  ] | [view](https://github.com/PawarMukesh/Fifa20-Clustering) |`Machine Learning,Python`  |
-| Machine Learning | [Car-Symboling-Prediction ] | [view](https://github.com/PawarMukesh/Car-Symboling-Prediction) |`Machine Learning,Python`  |
-| Machine Learning | [Heart-Disease-Prediction  ] | [view](https://github.com/PawarMukesh/Heart-Disease-Prediction) |`Machine Learning,Python`  |
-| Machine Learning | [Chance-of-Admission-prediction ] | [view](https://github.com/PawarMukesh/Chance-of-Admission-prediction) |`Machine Learning,Python`  |
-| Machine Learning | [SalesForce-Effectiveness ] | [view](https://github.com/PawarMukesh/SalesForce-Effectiveness) |`Machine Learning,Python`  |
-| Machine Learning | [Clustering-Healthy-LifestyleCity  ] | [view](https://github.com/PawarMukesh/Clustering-Healthy-LifestyleCity) |`Machine Learning,Python`  |
-| NLP | [Word-Enbedding-With-NN ] | [view](https://github.com/PawarMukesh/Word-Enbedding-With-NN) |`NLP,Python`  |
-| NLP | [NLP-Text-PreProcessing] | [view](https://github.com/PawarMukesh/NLP-Text-PreProcessing) |`NLP,Python`  |
-| CNN | [Covid19-ImageClassification] | [view](https://github.com/PawarMukesh/Covid19-ImageClassification) |`cnn classification` `python`  | 
-| CNN | [Asteroid-Classification] | [view](https://github.com/PawarMukesh/Asteroid-Classification) |`cnn classification` `python`  | 
+| Face Mask Detection | Deep Learning | [view](https://github.com/PawarMukesh/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
+| Paraphrases Detection | Deep Learning | [view](https://github.com/PawarMukesh/Paraphrases-Detection) |`Deep Learning` `Yolov5` `Python`| 
+| German Traffic Sign Detction | Deep Learning | [view](https://github.com/PawarMukesh/German-Traffic-Sign-Detction) |`Deep Learning` `Image Classification` `Python`| 
+| IndianSign Language Detector | Deep Learning   | [view](https://github.com/PawarMukesh/IndianSign-Language-Detector) |`Deep Learning` `Image Classification` `Python`| 
+| MalariaCell Detector | Deep Learning   | [view](https://github.com/PawarMukesh/MalariaCell-Detector) |`Deep Learning` `Image Classification` `Python`| 
+| RiceLeaf Disease Detector | Deep Learning   | [view](https://github.com/PawarMukesh/RiceLeaf-Disease-Detector) |`Deep Learning` `Image Classification` `Python`|
+|  FuseDetector | Deep Learning  | [view](https://github.com/PawarMukesh/FuseDetector) |`Deep Learning` `Image Classification` `Python`|
+| Employee Performance Analysis | Machine Learning   | [view](https://github.com/PawarMukesh/Employee-Performance-Analysis) |`Machine Learning,Python`  |
+| Customer Transaction Prediction | Machine Learning  | [view](https://github.com/PawarMukesh/Customer-Transaction-Prediction) |`Machine Learning,Python`  |
+| Fifa20 Clustering | Machine Learning  | [view](https://github.com/PawarMukesh/Fifa20-Clustering) |`Machine Learning,Python`  |
+| Car Symboling Prediction | Machine Learning  | [view](https://github.com/PawarMukesh/Car-Symboling-Prediction) |`Machine Learning,Python`  |
+| Heart Disease Prediction | Machine Learning   | [view](https://github.com/PawarMukesh/Heart-Disease-Prediction) |`Machine Learning,Python`  |
+| Chance of Admission prediction | Machine Learning  | [view](https://github.com/PawarMukesh/Chance-of-Admission-prediction) |`Machine Learning,Python`  |
+| SalesForce Effectiveness | Machine Learning | [view](https://github.com/PawarMukesh/SalesForce-Effectiveness) |`Machine Learning,Python`  |
+| Clustering Healthy LifestyleCity | Machine Learning   | [view](https://github.com/PawarMukesh/Clustering-Healthy-LifestyleCity) |`Machine Learning,Python`  |
+| Word Enbedding With NN | NLP | [view](https://github.com/PawarMukesh/Word-Enbedding-With-NN) |`NLP,Python`  |
+| NLP Text PreProcessing | NLP | [view](https://github.com/PawarMukesh/NLP-Text-PreProcessing) |`NLP,Python`  |
+| Covid19 ImageClassification | Deep Learning | [view](https://github.com/PawarMukesh/Covid19-ImageClassification) |`cnn classification` `python`  | 
+| Asteroid Classification | Deep Learning | [view](https://github.com/PawarMukesh/Asteroid-Classification) |`cnn classification` `python`  | 
 
 # ðŸ“Š GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PawarMukesh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
