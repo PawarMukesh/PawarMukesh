@@ -76,11 +76,11 @@ Unveiling the hidden truths within data drives my passion as a data scientist ðŸ
 | Projects |  | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
 | Deep Learning |  | -  | 
-| Deep Learning | [Face-Mask-Detection ](https://github.com/PawarMukesh/Face-Mask-Detection) | [view](https://github.com/PawarMukesh/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
-| Deep Learning | [Paraphrases-Detection](https://github.com/PawarMukesh/Paraphrases-Detection) | [view](https://github.com/PawarMukesh/Paraphrases-Detection) |`Deep Learning` `Yolov5` `Python`| 
-| Deep Learning | [German-Traffic-Sign-Detction](https://github.com/PawarMukesh/German-Traffic-Sign-Detction) | [view](https://github.com/PawarMukesh/German-Traffic-Sign-Detction) |`Deep Learning` `Image Classification` `Python`| 
-| Deep Learning | [IndianSign-Language-Detector ](https://github.com/PawarMukesh/IndianSign-Language-Detector) | [view](https://github.com/PawarMukesh/IndianSign-Language-Detector) |`Deep Learning` `Image Classification` `Python`| 
-| Deep Learning | [MalariaCell-Detector  ](https://github.com/PawarMukesh/MalariaCell-Detector) | [view](https://github.com/PawarMukesh/MalariaCell-Detector) |`Deep Learning` `Image Classification` `Python`| 
+| Deep Learning | [Face-Mask-Detection ] | [view](https://github.com/PawarMukesh/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
+| Deep Learning | [Paraphrases-Detection] | [view](https://github.com/PawarMukesh/Paraphrases-Detection) |`Deep Learning` `Yolov5` `Python`| 
+| Deep Learning | [German-Traffic-Sign-Detction] | [view](https://github.com/PawarMukesh/German-Traffic-Sign-Detction) |`Deep Learning` `Image Classification` `Python`| 
+| Deep Learning | [IndianSign-Language-Detector ] [view](https://github.com/PawarMukesh/IndianSign-Language-Detector) |`Deep Learning` `Image Classification` `Python`| 
+| Deep Learning | [MalariaCell-Detector  ]| [view](https://github.com/PawarMukesh/MalariaCell-Detector) |`Deep Learning` `Image Classification` `Python`| 
 | Deep Learning | [ RiceLeaf-Disease-Detector ](https://github.com/PawarMukesh/RiceLeaf-Disease-Detector) | [view](https://github.com/PawarMukesh/RiceLeaf-Disease-Detector) |`Deep Learning` `Image Classification` `Python`|
 | Deep Learning | [ FuseDetector  ](https://github.com/PawarMukesh/FuseDetector) | [view](https://github.com/PawarMukesh/FuseDetector) |`Deep Learning` `Image Classification` `Python`|
 | Machine Learning | [Employee-Performance-Analysis ](https://github.com/PawarMukesh/Employee-Performance-Analysis) | [view](https://github.com/PawarMukesh/Employee-Performance-Analysis) |`Machine Learning,Python`  |
