@@ -11,10 +11,8 @@
 <p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=ADFF2F&size=40&width=750&height=80&lines=Welcome!+To+MY+Profile"/>
 </p>
          
-
-<h2 align="center">
-         
-Unveiling the hidden truths within data drives my passion as a data scientist 👩‍💻 
+<h3 align="center"> Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.</h3>
+ 
 
 # 💫 About Me: 
 
@@ -22,7 +20,7 @@ Unveiling the hidden truths within data drives my passion as a data scientist �
 
 📝 I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics.<br><br>
 
-💬 Ask me about Data Science. (AI/ML)<br><br>
+💬 Ask me about Data Science (AI/ML.br><br>
 
 🌟 "Data science unveils hidden patterns in vast information, transforming data into valuable insights guiding decisions and fueling innovation"
 
