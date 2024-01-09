@@ -20,11 +20,11 @@
 
 📝 I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics.<br><br>
 
-💬 Ask me about Data Science (AI/ML.br><br>
+💬 Ask me about Data Science (AI/ML).
 
-🌟 "Data science unveils hidden patterns in vast information, transforming data into valuable insights guiding decisions and fueling innovation"
+🌟 "Data science unveils hidden patterns in vast information, transforming data into valuable insights guiding decisions and fueling innovation."
 
-⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun 🙂
+⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun. 🙂
 
 
 ## 🌐  𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑊𝑖𝑡ℎ 𝑀𝑒 !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
