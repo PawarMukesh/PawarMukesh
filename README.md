@@ -93,6 +93,9 @@
 | Word Enbedding With NN | NLP | [view](https://github.com/PawarMukesh/Word-Enbedding-With-NN) |`NLP,Python`  |
 | NLP Text PreProcessing | NLP | [view](https://github.com/PawarMukesh/NLP-Text-PreProcessing) |`NLP,Python`  |
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PawarMukesh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PawarMukesh&theme=gruvbox&hide_border=false)<br/>
