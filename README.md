@@ -6,6 +6,8 @@
 [![Geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-0077B5?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mukeshpa29f2)
 [![Instagram](https://img.shields.io/badge/Instagram-2F4F4F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_mukeshpawar_)
 
+### Glad to see you here!  
+
  I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics.
 As a data science enthusiast with one year of internship experience, I am passionate about utilizing data to drive business decisions and solve complex problems. Experience in Python and SQL, has equipped me with the skills to conduct data analysis, build predictive models, and create actionable insights. 
 
