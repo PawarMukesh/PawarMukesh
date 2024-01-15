@@ -1,5 +1,5 @@
-![Profile views](https://komarev.com/ghpvc/?username=pawarmukesh&style=for-the-badge&color=orange)
-[![pawarmukesh's stars](https://custom-icon-badges.demolab.com/github/stars/pawarmukesh?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
+![Profile views](https://komarev.com/ghpvc/?username=pawarmukesh&style=for-the-badge&color=blue)
+[![pawarmukesh's stars](https://custom-icon-badges.demolab.com/github/stars/pawarmukesh?color=DAF7A6&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
 
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
