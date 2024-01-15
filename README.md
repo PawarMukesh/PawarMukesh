@@ -12,11 +12,10 @@ As a data science enthusiast with one year of internship experience, I am passio
 During my internship, I gained hands-on experience in developing and implementing machine learning algorithms for predictive modeling, as well as collaborating with cross-functional teams to deliver data-driven solutions. I am eager to continue learning and growing in the field of data science, and I am committed to staying up-to-date on the latest trends and techniques in the industry.   
   
 
-<br/>  
-
+<br/> 
 
 ## Rapidfire  
-<table><tr><td>
+
 
 - *📝 I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics*.  
   
