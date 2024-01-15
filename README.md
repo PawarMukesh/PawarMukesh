@@ -26,7 +26,7 @@ During my internship, I gained hands-on experience in developing and implementin
 - *❓ Ask me about related to AI/ML*.  
   
 
-- *⚡Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun. *🙂  
+- *⚡Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun*.🙂  
 
 
 </td>
