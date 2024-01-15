@@ -53,7 +53,6 @@
 | Design Tools | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"></a> |
 | Learning | <a href="https://auth.geeksforgeeks.org/user/mukeshpa29f2"><img src="https://img.shields.io/badge/Geeksforgeeks-0056D2?style=for-the-badge&logo=Geeksforgeeks&logoColor=white" /> |
   
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
 
