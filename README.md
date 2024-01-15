@@ -30,11 +30,11 @@ During my internship, I gained hands-on experience in developing and implementin
 - *⚡Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun. *🙂  
 
 
-</td><td valign="top" width="50%">
+</td>
 
 </div>  
 
-</td></tr></table>  
+</td> 
 
 <br/>  
 
