@@ -23,7 +23,9 @@ During my internship, I gained hands-on experience in developing and implementin
 - *🌱 I’m currently learning AI Skills*.  
   
 
-- *❓ Ask me about related to AI/ML*.  
+- *❓ Ask me about related to AI/ML*.
+  
+- *📫 How to reach me  mukeshpawar8793@gmail.com*
   
 
 - *⚡Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun*.🙂  
