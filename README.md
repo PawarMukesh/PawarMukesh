@@ -13,7 +13,7 @@
 
 # 💫 About Me: 
 
-<img align="right" alt="coding" width="250" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/MP%20Gif.gif">
+<img align="right" alt="coding" width="250" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/day13-14_toggle_tx.gif">
 
 📝*I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics*.<br><br>
 
