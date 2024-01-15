@@ -18,16 +18,16 @@ During my internship, I gained hands-on experience in developing and implementin
 ## Rapidfire  
 <table><tr><td>
 
-- 📝 I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics.  
+- *📝 I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics*.  
   
 
-- 🌱 I’m currently learning AI Skills.  
+- *🌱 I’m currently learning AI Skills*.  
   
 
-- ❓ Ask me about related to AI/ML.  
+- *❓ Ask me about related to AI/ML*.  
   
 
-- ⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun. 🙂  
+- *⚡Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun. *🙂  
 
 
 </td><td valign="top" width="50%">
