@@ -33,8 +33,6 @@ During my internship, I gained hands-on experience in developing and implementin
 </td><td valign="top" width="50%">
 
 </div>  
-<img align="right" alt="coding" width="350" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/MP%20Gif.gif">
-
 
 </td></tr></table>  
 
