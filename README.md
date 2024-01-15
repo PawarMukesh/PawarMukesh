@@ -1,30 +1,25 @@
 ![Profile views](https://komarev.com/ghpvc/?username=pawarmukesh&style=for-the-badge&color=orange)
 [![pawarmukesh's stars](https://custom-icon-badges.demolab.com/github/stars/pawarmukesh?color=55960c&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/ForrestKnight?tab=repositories&sort=stargazers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=orange&vCenter=true&lines=Up+and+Coming+Analyst📊;Data+Scientist+👩‍🔬;AI+Engineer🛠️;Coder+💻;)](https://git.io/typing-svg)
 
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45"/> I'm Mukesh Pawar
 
-<p> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=ADFF2F&size=40&width=750&height=80&lines=Welcome!+To+MY+Profile"/>
-</p>
+
          
-<h3 align="center"> Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.</h3>
- 
+
 
 # 💫 About Me: 
 
 <img align="right" alt="coding" width="250" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/MP%20Gif.gif">
 
-📝 I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics.<br><br>
+📝*I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics*.<br><br>
 
-💬 Ask me about Data Science (AI/ML).
+💬 *Ask me about Data Science (AI/ML)*.
 
-🌟 "Data science unveils hidden patterns in vast information, transforming data into valuable insights guiding decisions and fueling innovation."
-
-⚡ Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun. 🙂
+⚡ *Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun.* 🙂
 
 
 ## 🌐  𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑊𝑖𝑡ℎ 𝑀𝑒 !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
@@ -42,9 +37,6 @@
 <hr>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
@@ -93,8 +85,6 @@
 | Word Enbedding With NN | NLP | [view](https://github.com/PawarMukesh/Word-Enbedding-With-NN) |`NLP,Python`  |
 | NLP Text PreProcessing | NLP | [view](https://github.com/PawarMukesh/NLP-Text-PreProcessing) |`NLP,Python`  |
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PawarMukesh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -115,12 +105,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
-  
-<b>❤️ Grateful for every pair of eyes on my GitHub. Thank you for being a part of my open-source adventure! ❤️</b>
-</div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px">
+
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
