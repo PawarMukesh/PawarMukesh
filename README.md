@@ -17,7 +17,7 @@
 
 📝*I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics*.<br><br>
 
-💬 *Ask me about Data Science (AI/ML)*.
+❓*Ask me about Data Science (AI/ML)*.
 
 ⚡ *Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun.* 🙂
 
