@@ -28,8 +28,8 @@
 [![Hackerrank](https://img.shields.io/badge/hackerrank-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mukeshpawar8793?hr_r=1)
 [![Geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2F4F4F?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mukeshpa29f2)
 [![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_mukeshpawar_)
-
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-2F4F4F?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pawarmukesh)
+[![Quora](https://img.shields.io/badge/Quora-0077B5?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Mukesh-D-Pawar-1)
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
