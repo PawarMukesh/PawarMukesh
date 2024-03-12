@@ -1,5 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=pawarmukesh&style=for-the-badge&color=orange)
-[![PawarMukesh's stars](https://custom-icon-badges.demolab.com/github/stars/pawarmukesh?color=DAF7A6&style=for-the-badge&labelColor=#A55960&logo=star)](https://github.com/pawarmukesh?tab=repositories&sort=stargazers)
+
+[![PawarMukesh' stars](https://img.shields.io/github/stars/PawarMukesh?color=DAF7A6&style=for-the-badge&logo=https://github.com/PawarMukesh/repo/raw/main/path/to/your/image.png)](https://github.com/PwarMukesh?tab=repositories&sort=stargazers)
+
 
 
 <h1 align="center">  𝐇𝐞𝐥𝐥𝐨,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
