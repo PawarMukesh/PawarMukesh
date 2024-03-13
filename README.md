@@ -103,7 +103,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=pawarmukesh&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨
 ![](https://github-contributor-stats.vercel.app/api?username=pawarmukesh&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
