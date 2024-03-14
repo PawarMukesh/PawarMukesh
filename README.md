@@ -90,7 +90,8 @@
 | SalesForce Effectiveness | Machine Learning | [view](https://github.com/PawarMukesh/SalesForce-Effectiveness) |`Machine Learning,Python`  |
 | Clustering Healthy LifestyleCity | Machine Learning   | [view](https://github.com/PawarMukesh/Clustering-Healthy-LifestyleCity) |`Machine Learning,Python`  |
 | Word Enbedding With NN | NLP | [view](https://github.com/PawarMukesh/Word-Enbedding-With-NN) |`NLP,Python`  |
-| NLP Text PreProcessing | NLP | [view](https://github.com/PawarMukesh/NLP-Text-PreProcessing) |`NLP,Python`  |
+| NLP Text PreProcessing | NLP | [view](https://github.com/PawarMukesh/NLP-Text-PreProcessing) |`NLP,Python`  |Open CV|Image Processing | [view ]()
+
 
 
 # 📊 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
