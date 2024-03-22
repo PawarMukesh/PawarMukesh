@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=pawarmukesh&style=for-the-badge&color=orange)
-[![PawarMukesh' stars](https://img.shields.io/github/stars/PawarMukesh?color=DAF7A6&style=for-the-badge&logo=https://github.com/PawarMukesh/repo/raw/main/path/to/your/image.png)](https://github.com/PwarMukesh?tab=repositories&sort=stargazers)
+[![PawarMukesh' stars](https://img.shields.io/github/stars/PawarMukesh?color=DAF7A6&style=for-the-badge&logo=https://github.com/PawarMukesh/repo/raw/main/path/to/your/image.png)](https://github.com/PawarMukesh?tab=repositories&sort=stargazers)
 ![Followers](https://img.shields.io/github/followers/PawarMukesh?style=for-the-badge&color=orange)
 
 
@@ -97,13 +97,13 @@
 
 
 # 📊 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
-![](https://github-readme-stats.vercel.app/api?username=pawarmukesh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pawarmukesh&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pawarmukesh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PawarMukesh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PawarMukesh&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawarMukesh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬
-![](https://github-profile-trophy.vercel.app/?username=pawarmukesh&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=PawarMukesh&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
