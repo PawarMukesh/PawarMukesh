@@ -1,6 +1,6 @@
-![Profile views](https://komarev.com/ghpvc/?username=PawarMukesh&style=for-the-badge&color=orange)
-[![PawarMukesh' stars](https://img.shields.io/github/stars/PawarMukesh?color=DAF7A6&style=for-the-badge&logo=https://github.com/PawarMukesh/repo/raw/main/path/to/your/image.png)](https://github.com/PawarMukesh?tab=repositories&sort=stargazers)
-![Followers](https://img.shields.io/github/followers/pawarmukesh?style=for-the-badge&color=orange)
+![GitHubWidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PawarMukesh&data=followers,repositories,stars,commits&theme=nautilus)
+
+
 
 
 
