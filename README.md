@@ -18,7 +18,11 @@
 
 <img align="right" alt="coding" width="250" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
-📝*I’m Currently Pursuing in M.Sc Data Science & Spatial Analytics*.
+*I'm Mukesh Pawar, a data scientist currently pursuing my MSc in Data Science from SIG Pune. I've completed specialized training in data science and AI in Bangalore (2023). Alongside my passion for data, I'm also a skilled chef, blending analytical thinking with creative flair in both fields.*
+
+*In data science, I thrive on uncovering insights and solving complex problems through statistical analysis, machine learning, and data visualization. As a chef, I craft culinary experiences that tantalize the senses, combining flavors, textures, and aromas with meticulous attention to detail.*
+            
+📝*I’m Currently Learning Data Science & AI Skills*.
 
 ❓*Ask me about Data Science (AI/ML)*.
 
