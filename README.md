@@ -22,7 +22,7 @@
 
 *In data science, I thrive on uncovering insights and solving complex problems through statistical analysis, machine learning, and data visualization. As a chef, I craft culinary experiences that tantalize the senses, combining flavors, textures, and aromas with meticulous attention to detail.*
             
-📝*I’m Currently Learning Data Science & AI Skills*.
+📝*Currently engaged in advancing my skills in the exciting field of data science*.
 
 ❓*Ask me about Data Science (AI/ML)*.
 
