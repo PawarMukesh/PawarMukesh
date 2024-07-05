@@ -19,7 +19,7 @@
 
 <img align="right" alt="coding" width="250" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
-*I'm Mukesh Pawar, a data scientist currently pursuing my MSc in Data Science from SIG Pune. I've completed specialized training in data science and AI in Bangalore (2023). Alongside my passion for data, I'm also a skilled chef, blending analytical thinking with creative flair in both fields.*
+*I'm Mukesh Pawar, a data scientist currently pursuing my MSc in Data Science And Spatial Analtyics at SIG , Pune. I've completed specialized training in data science and AI in Bangalore (2023). Alongside my passion for data, I'm also a skilled chef, blending analytical thinking with creative flair in both fields.*
 
 *In data science, I thrive on uncovering insights and solving complex problems through statistical analysis, machine learning, and data visualization. As a chef, I craft culinary experiences that tantalize the senses, combining flavors, textures, and aromas with meticulous attention to detail.*
             
@@ -49,7 +49,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
-# 𝐒𝐤𝐢𝐥𝐥𝐬:  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# 𝐒𝐤𝐢𝐥𝐥𝐬:   
 
 
 | 𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢       | 𝚂𝚔𝚒𝚕𝚕𝚜        |
@@ -73,8 +73,7 @@
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-#  𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-
+#  𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 
 | 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 |  | 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬 |
 |:---------|:----------:|:----------:|:-------------------|
 | Face Mask Detection | Deep Learning | [view](https://github.com/PawarMukesh/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
@@ -101,7 +100,7 @@
 
 
 
-# 📊 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
+#  𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawarMukesh&theme=gruvbox" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PawarMukesh&theme=gruvbox"  />
@@ -121,11 +120,10 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
 </div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
