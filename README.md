@@ -4,7 +4,7 @@
 ![Followers](https://img.shields.io/github/followers/pawarmukesh?style=for-the-badge&color=orange)
 
 
-# ![Banner](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/BannerP1%20(1).png)
+![Banner](https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/BannerP1%20(1).png)
 
 <h1 align="center">  𝐇𝐞𝐥𝐥𝐨,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -17,7 +17,7 @@
 
 # 🙋‍♂️  𝐀𝐛𝐨𝐮𝐭 𝐦𝐞: 
 
-<img align="right" alt="coding" width="250" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
+# <img align="right" alt="coding" width="250" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 *I'm Mukesh Pawar, a data scientist currently pursuing my MSc in Data Science And Spatial Analtyics at SIG , Pune. I've completed specialized training in data science and AI in Bangalore (2023). Alongside my passion for data, I'm also a skilled chef, blending analytical thinking with creative flair in both fields.*
 
