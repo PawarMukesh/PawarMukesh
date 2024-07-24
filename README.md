@@ -46,7 +46,7 @@
 <br>
 <hr>
 
-## 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡
+## 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
@@ -74,7 +74,7 @@
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-##  𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 
+##  𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬: 
 | 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 |  | 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬 |
 |:---------|:----------:|:----------:|:-------------------|
 | Face Mask Detection | Deep Learning | [view](https://github.com/PawarMukesh/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
@@ -110,13 +110,13 @@
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PawarMukesh&theme=gruvbox" />
 </div>
 
-## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬
+## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬:
 ![](https://github-profile-trophy.vercel.app/?username=PawarMukesh&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
-## ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞
+## ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨
+## 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨:
 ![](https://github-contributor-stats.vercel.app/api?username=pawarmukesh&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
