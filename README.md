@@ -46,11 +46,11 @@
 <br>
 <hr>
 
-## 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
+## 📊 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanwar-12&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 
-## 𝐒𝐤𝐢𝐥𝐥𝐬:   
+##  👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:   
 
 
 | 𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢       | 𝚂𝚔𝚒𝚕𝚕𝚜        |
@@ -74,7 +74,7 @@
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-##  𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬: 
+##   <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="25" />𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬: 
 | 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 |  | 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬 |
 |:---------|:----------:|:----------:|:-------------------|
 | Face Mask Detection | Deep Learning | [view](https://github.com/PawarMukesh/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
@@ -101,7 +101,7 @@
 
 
 
-##  𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
+##  📈 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawarMukesh&theme=gruvbox" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PawarMukesh&theme=gruvbox"  />
