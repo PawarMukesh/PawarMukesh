@@ -19,15 +19,17 @@
 
 # <img align="right" alt="coding" width="250" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
-*I'm Mukesh Pawar, a data scientist currently pursuing my MSc in Data Science And Spatial Analtyics at SIG , Pune. I've completed specialized training in data science and AI in Bangalore (2023). Alongside my passion for data, I'm also a skilled chef, blending analytical thinking with creative flair in both fields.*
 
-*In data science, I thrive on uncovering insights and solving complex problems through statistical analysis, machine learning, and data visualization. As a chef, I craft culinary experiences that tantalize the senses, combining flavors, textures, and aromas with meticulous attention to detail.*
-            
-📝*Currently engaged in advancing my skills in the exciting field of data science*.
+*I'm Mukesh Pawar, currently pursuing an MSc in Data Science and Spatial Analytics at SIG, Pune. I recently completed specialized training in Data Science and AI in Bangalore (2023). My journey combines two passions—data science and cooking.*
 
-❓*Ask me about Data Science (AI/ML)*.
+*In the field of data science, I enjoy uncovering hidden patterns and tackling complex challenges using statistics, machine learning, and data visualization. As a chef, I craft meals that are not just delicious but also thoughtfully designed, where every flavor and texture is carefully considered.*
 
-⚡ *Fun fact: Read a research paper in the morning, write down the algorithm in the afternoon, and code it up in the evening. It is really fun.* 🙂
+📝 *I'm currently dedicated to enhancing my expertise in data science*.
+
+❓*Curious about Data Science (AI/ML)?.*
+
+⚡ *Fun fact: My day often starts with reading a research paper, then I dive into writing algorithms, and by evening, I'm coding them up. It is really fun! 🙂*.
+
 
 
 ## <img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞!
