@@ -33,10 +33,18 @@
 
 ## <img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞!
 
-[![pub package](https://img.shields.io/badge/LinkedIn-DAF7A6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9D%9A%82%F0%9D%9A%8A%F0%9D%9A%94%F0%9D%9A%9C%F0%9D%9A%91%F0%9D%9A%92-%F0%9D%9A%83%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%A0%F0%9D%9A%8A%F0%9D%9A%9B-69a241250/) [![Gmail](https://img.shields.io/badge/Gmail-ff8210?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-DAF7A6?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tsakshi)
- [![Hackerrank](https://img.shields.io/badge/hackerrank-ff8210?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)[![Leetcode](https://img.shields.io/badge/Leetcode-DAF7A6?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/STanwar16/) [![Codechef](https://img.shields.io/badge/Codechef-ff8210?style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/techtanwar03) 
-[![Quora](https://img.shields.io/badge/Quora-DAF7A6?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/S2tech)  [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-ff8210?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22276125/sakshi-tanwar) [![Geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-DAF7A6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user) [![Medium](https://img.shields.io/badge/Medium-ff8210?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tanwarsakshi1717157)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DAF7A6?style=for-the-badge&logo=Portfolio&logoColor=white)](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9D%9A%82%F0%9D%9A%8A%F0%9D%9A%94%F0%9D%9A%9C%F0%9D%9A%91%F0%9D%9A%92-%F0%9D%9A%83%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%A0%F0%9D%9A%8A%F0%9D%9A%9B-69a241250/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techtanwar03@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tsakshi)
+[![Hackerrank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dashboard)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/STanwar16/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/techtanwar03)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/S2tech)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22276125/sakshi-tanwar)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tanwarsakshi1717157)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -46,7 +54,6 @@
 
 ## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
 
- ## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
 
 #### 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>   
