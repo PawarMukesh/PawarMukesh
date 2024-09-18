@@ -43,7 +43,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22276125/sakshi-tanwar)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/tanwarsakshi1717157/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tanwarsakshi1717157)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://tanwar-12.github.io/Sakshitanwarportfolio.github.io/)
+
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
