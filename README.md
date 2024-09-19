@@ -86,6 +86,8 @@
 #### Learning
 <img src="https://img.shields.io/badge/Codecademy-FFDE59?style=for-the-badge&logo=codecademy&logoColor=white" /> <img src="https://img.shields.io/badge/Geeksforgeeks-3F6C45?style=for-the-badge&logo=Geeksforgeeks&logoColor=white" /> <img src="https://img.shields.io/badge/coding%20ninjas-FFDE59?style=for-the-badge&logo=codingninjas&logoColor=white" /> <img src="https://img.shields.io/badge/Coursera-3F6C45?style=for-the-badge&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/Datacamp-FFDE59?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/> <img src="https://img.shields.io/badge/Khan%20Academy-3F6C45?style=for-the-badge&logo=Khan%20Academy&logoColor=white"/> <img src="https://img.shields.io/badge/Udemy-FFDE59?style=for-the-badge&logo=Udemy&logoColor=white"/> <img src="https://img.shields.io/badge/Udacity-3F6C45?style=for-the-badge&logo=udacity&logoColor=#5FCFEE"/>
 
+![Blue Badge](https://img.shields.io/badge/Blue-Badge-007BFF?style=for-the-badge&logo=appveyor)
+![Orange Badge](https://img.shields.io/badge/Orange-Badge-FF5722?style=for-the-badge&logo=appveyor)
   
 ## 📊 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PawarMukesh&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
