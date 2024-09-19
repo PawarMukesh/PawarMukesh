@@ -31,17 +31,16 @@
 
 
 
-## <img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞!
+## <img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100"> Connect with me!
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFDE59?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mukesh-pawar-0ba10114b/)
-[![Gmail](https://img.shields.io/badge/Gmail-3F6C45?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshpawar.nsk@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-FFDE59?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/mukeshpawar)
-[![Hackerrank](https://img.shields.io/badge/HackerRank-3F6C45?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mukeshpawar8793)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFDE59?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mukesh_Pawar/)
-[![Quora](https://img.shields.io/badge/Quora-3F6C45?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Mukesh-D-Pawar-1)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FFDE59?style=for-the-badge&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/19405928/mukesh-pawar)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-3F6C45?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mukeshpa29f2/?ref=header_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mukesh-pawar-0ba10114b/)
+[![Gmail](https://img.shields.io/badge/Gmail-FFA07A?style=for-the-badge&logo=gmail&logoColor=black)](mailto:mukeshpawar.nsk@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-ADD8E6?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/mukeshpawar)
+[![Hackerrank](https://img.shields.io/badge/HackerRank-FFA07A?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/mukeshpawar8793)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ADD8E6?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mukesh_Pawar/)
+[![Quora](https://img.shields.io/badge/Quora-FFA07A?style=for-the-badge&logo=quora&logoColor=black)](https://www.quora.com/profile/Mukesh-D-Pawar-1)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-ADD8E6?style=for-the-badge&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/19405928/mukesh-pawar)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-FFA07A?style=for-the-badge&logo=geeksforgeeks&logoColor=black)](https://www.geeksforgeeks.org/user/mukeshpa29f2/?ref=header_profile)
 
 
 
