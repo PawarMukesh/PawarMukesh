@@ -53,7 +53,7 @@
 ## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
 
 ### Programming Languages
-<img src="https://img.shields.io/badge/Python-A8B9CC?style=for-the-badge&logo=Python&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/C-013243?style=for-the-badge&logo=C&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/C%2B%2B-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/R-013243?style=for-the-badge&logo=R&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Python-A8B9CC?style=for-the-badge&logo=Python&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/C-013243?style=for-the-badge&logo=C&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/C%2B%2B-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/R-013243?style=for-the-badge&logo=R&logoColor=white" height="30"/>
 
 ### Databases
 <img src="https://img.shields.io/badge/MySQL-A8B9CC?style=for-the-badge&logo=mysql&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/PostgreSQL-013243?style=for-the-badge&logo=postgresql&logoColor=white" height="35"/> <img src="https://img.shields.io/badge/SQLite-A8B9CC?style=for-the-badge&logo=sqlite&logoColor=black" height="35"/> <img src="https://img.shields.io/badge/MongoDB-013243?style=for-the-badge&logo=MongoDB&logoColor=white" height="35"/>
