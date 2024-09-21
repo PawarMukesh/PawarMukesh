@@ -76,7 +76,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-FFA07A?style=for-the-badge&logo=GitHub&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-ADD8E6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-FFA07A?style=for-the-badge&logo=Anaconda&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-ADD8E6?style=for-the-badge&logo=Jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-FFA07A?style=for-the-badge&logo=Colab&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder-ADD8E6?style=for-the-badge&logo=Spyder&logoColor=white)
 
 #### Cloud 
-![AWS](https://img.shields.io/badge/AWS-FFA07A?style=for-the-badge&logo=Amazon%20AWS&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-FFA07A?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FFA07A?style=for-the-badge&logo=Amazon%20AWS&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-ADD8E6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 
   
 ## 📊 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
