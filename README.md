@@ -9,13 +9,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45"/> 𝐈'𝐦 𝐌𝐮𝐤𝐞𝐬𝐡 𝐏𝐚𝐰𝐚𝐫 
-
-
          
-
-
 ## 🙋‍♂️  𝐀𝐛𝐨𝐮𝐭 𝐦𝐞: 
-
 # <img align="right" alt="coding" width="250" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 
