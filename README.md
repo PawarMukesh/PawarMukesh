@@ -161,7 +161,7 @@
 
  
 ## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬:
-![](https://github-profile-trophy.vercel.app/?username=pawarmukesh&theme=onestar&no-frame=true&no-bg=false&margin-w=4&title=FF6B6B)
+![](https://github-profile-trophy.vercel.app/?username=pawarmukesh&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
 ## ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark_blue)
