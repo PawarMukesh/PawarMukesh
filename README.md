@@ -152,23 +152,20 @@
 
 ## 📈  𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
 <div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawarmukesh&theme=default" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawarmukesh&theme=default"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pawarmukesh&theme=default"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawarmukesh&theme=default"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pawarmukesh&theme=default" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawarmukesh&theme=github" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawarmukesh&theme=github"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pawarmukesh&theme=github"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawarmukesh&theme=github"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pawarmukesh&theme=github" />
 </div>
 
  
 ## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬:
-![](https://github-profile-trophy.vercel.app/?username=pawarmukesh&theme=default&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pawarmukesh&theme=onestar&no-frame=true&no-bg=false&margin-w=4&title=FF6B6B)
 
- ## ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
-
+## ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark_blue)
 
 ## 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨:
-![](https://github-contributor-stats.vercel.app/api?username=pawarmukesh&limit=5&theme=default&combine_all_yearly_contributions=true)
-
-
+![](https://github-contributor-stats.vercel.app/api?username=pawarmukesh&limit=5&theme=light&combine_all_yearly_contributions=true&title_color=00C4CC&icon_color=FF6B6B)
 
