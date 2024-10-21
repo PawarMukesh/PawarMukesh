@@ -164,3 +164,6 @@
 ## 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨:
 ![](https://github-contributor-stats.vercel.app/api?username=pawarmukesh&limit=5&theme=light&combine_all_yearly_contributions=true&title_color=00C4CC&icon_color=FF6B6B)
 
+## 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 𝐒𝐭𝐚𝐭𝐬:
+![Leetcode Stats](https://leetcard.jacoblin.cool/Mukesh_Pawar?theme=light)
+---
