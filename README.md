@@ -15,9 +15,7 @@
 # <img align="right" alt="coding" width="300" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 
-*I'm Mukesh Pawar, currently pursuing an MSc in Data Science and Spatial Analytics at SIG, Pune. I recently completed specialized training in Data Science and AI in Bangalore (2023). My journey combines two passions—data science and hospitality management.*
-
-*In the field of data science, I enjoy uncovering hidden patterns and tackling complex challenges using statistics, machine learning, and data visualization. As a chef, I craft meals that are not just delicious but also thoughtfully designed, where every flavor and texture is carefully considered.*
+*I'm Mukesh Pawar, pursuing an MSc in Data Science and Spatial Analytics at SIG, Pune. Recently, I completed specialized Data Science and AI training in Bangalore (2023). I blend my passion for data science, where I uncover patterns and tackle complex challenges, with my love for cooking, designing each meal with care in flavor and texture.*
 
 📝 *I'm currently dedicated to enhancing my expertise in data science*.
 
