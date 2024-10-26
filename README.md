@@ -12,7 +12,7 @@
          
 ## 🙋‍♂️  𝐀𝐛𝐨𝐮𝐭 𝐦𝐞: 
 
-# <img align="right" alt="coding" width="350" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
+# <img align="right" alt="coding" width="300" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 
 *I'm Mukesh Pawar, currently pursuing an MSc in Data Science and Spatial Analytics at SIG, Pune. I recently completed specialized training in Data Science and AI in Bangalore (2023). My journey combines two passions—data science and hospitality management.*
