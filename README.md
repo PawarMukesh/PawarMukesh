@@ -103,31 +103,49 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ##   <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="25" />𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬: 
-| 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 |  | 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬 |
-|:---------|:----------:|:----------:|:-------------------|
-| Face Mask Detection | Deep Learning | [view](https://github.com/PawarMukesh/Face-Mask-Detection) |`Deep Learning` `Yolov5` `Python`|
-| Paraphrases Detection | Deep Learning | [view](https://github.com/PawarMukesh/Paraphrases-Detection) |`Deep Learning` `Yolov5` `Python`| 
-| German Traffic Sign Detction | Deep Learning | [view](https://github.com/PawarMukesh/German-Traffic-Sign-Detction) |`Deep Learning` `Image Classification` `Python`| 
-| IndianSign Language Detector | Deep Learning   | [view](https://github.com/PawarMukesh/IndianSign-Language-Detector) |`Deep Learning` `Image Classification` `Python`| 
-| MalariaCell Detector | Deep Learning   | [view](https://github.com/PawarMukesh/MalariaCell-Detector) |`Deep Learning` `Image Classification` `Python`| 
-| RiceLeaf Disease Detector | Deep Learning   | [view](https://github.com/PawarMukesh/RiceLeaf-Disease-Detector) |`Deep Learning` `Image Classification` `Python`|
-|  FuseDetector | Deep Learning  | [view](https://github.com/PawarMukesh/FuseDetector) |`Deep Learning` `Image Classification` `Python`|
-| Covid19 ImageClassification | Deep Learning | [view](https://github.com/PawarMukesh/Covid19-ImageClassification) |`cnn classification` `python`  | 
-| Asteroid Classification | Deep Learning | [view](https://github.com/PawarMukesh/Asteroid-Classification) |`cnn classification` `python`  | 
-| Employee Performance Analysis | Machine Learning   | [view](https://github.com/PawarMukesh/Employee-Performance-Analysis) |`Machine Learning,Python`  |
-| Customer Transaction Prediction | Machine Learning  | [view](https://github.com/PawarMukesh/Customer-Transaction-Prediction) |`Machine Learning,Python`  |
-| Fifa20 Clustering | Machine Learning  | [view](https://github.com/PawarMukesh/Fifa20-Clustering) |`Machine Learning,Python`  |
-| Car Symboling Prediction | Machine Learning  | [view](https://github.com/PawarMukesh/Car-Symboling-Prediction) |`Machine Learning,Python`  |
-| Heart Disease Prediction | Machine Learning   | [view](https://github.com/PawarMukesh/Heart-Disease-Prediction) |`Machine Learning,Python`  |
-| Chance of Admission prediction | Machine Learning  | [view](https://github.com/PawarMukesh/Chance-of-Admission-prediction) |`Machine Learning,Python`  |
-| SalesForce Effectiveness | Machine Learning | [view](https://github.com/PawarMukesh/SalesForce-Effectiveness) |`Machine Learning,Python`  |
-| Clustering Healthy LifestyleCity | Machine Learning   | [view](https://github.com/PawarMukesh/Clustering-Healthy-LifestyleCity) |`Machine Learning,Python`  |
-| Word Enbedding With NN | NLP | [view](https://github.com/PawarMukesh/Word-Enbedding-With-NN) |`NLP,Python`  |
-| NLP Text PreProcessing | NLP | [view](https://github.com/PawarMukesh/NLP-Text-PreProcessing) |`NLP,Python`  |
-| Open CV| Image Processing | [view ](https://github.com/PawarMukesh/OpenCV)   |`OpenCv,Python`  |
-| R | Programming Language | [view ](https://github.com/PawarMukesh/R-Programming)   |`R`  |
+#### 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
+
+| **Deep Learning Projects**                   | **Repository**   | **Tech Stack & Tools**                          |
+|:-------------------------------|:----------------:|:-----------------------------------------------|
+| Face Mask Detection            | [View](https://github.com/PawarMukesh/Face-Mask-Detection)            | `Deep Learning`, `Yolov5`, `Python`            |
+| Paraphrases Detection          | [View](https://github.com/PawarMukesh/Paraphrases-Detection)          | `Deep Learning`, `Yolov5`, `Python`            |
+| German Traffic Sign Detection  | [View](https://github.com/PawarMukesh/German-Traffic-Sign-Detction)   | `Deep Learning`, `Image Classification`, `Python` |
+| Indian Sign Language Detector  | [View](https://github.com/PawarMukesh/IndianSign-Language-Detector)   | `Deep Learning`, `Image Classification`, `Python` |
+| Malaria Cell Detector          | [View](https://github.com/PawarMukesh/MalariaCell-Detector)           | `Deep Learning`, `Image Classification`, `Python` |
+| Rice Leaf Disease Detector     | [View](https://github.com/PawarMukesh/RiceLeaf-Disease-Detector)      | `Deep Learning`, `Image Classification`, `Python` |
+| Fuse Detector                  | [View](https://github.com/PawarMukesh/FuseDetector)                   | `Deep Learning`, `Image Classification`, `Python` |
+
+#### 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
+| **Machine Learning Projects**                   | **Repository**   | **Tech Stack & Tools**                          |
+|:-------------------------------|:----------------:|:-----------------------------------------------|
+| Employee Performance Analysis  | [View](https://github.com/PawarMukesh/Employee-Performance-Analysis) | `Machine Learning`, `Python`                   |
+| Customer Transaction Prediction| [View](https://github.com/PawarMukesh/Customer-Transaction-Prediction)| `Machine Learning`, `Python`                   |
+| FIFA 20 Clustering             | [View](https://github.com/PawarMukesh/Fifa20-Clustering)              | `Machine Learning`, `Python`                   |
+| Car Symboling Prediction       | [View](https://github.com/PawarMukesh/Car-Symboling-Prediction)       | `Machine Learning`, `Python`                   |
+| Heart Disease Prediction       | [View](https://github.com/PawarMukesh/Heart-Disease-Prediction)       | `Machine Learning`, `Python`                   |
+| Chance of Admission Prediction | [View](https://github.com/PawarMukesh/Chance-of-Admission-prediction) | `Machine Learning`, `Python`                   |
+| SalesForce Effectiveness       | [View](https://github.com/PawarMukesh/SalesForce-Effectiveness)       | `Machine Learning`, `Python`                   |
+| Clustering Healthy Lifestyle City | [View](https://github.com/PawarMukesh/Clustering-Healthy-LifestyleCity)| `Machine Learning`, `Python`                |
 
 
+#### 𝐂𝐍𝐍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
+| **CNN Projects**                   | **Repository**   | **Tech Stack & Tools**                          |
+|:-------------------------------|:----------------:|:-----------------------------------------------|
+| COVID-19 Image Classification  | [View](https://github.com/PawarMukesh/Covid19-ImageClassification)    | `CNN Classification`, `Python`                 |
+| Asteroid Classification        | [View](https://github.com/PawarMukesh/Asteroid-Classification)        | `CNN Classification`, `Python`                 |
+
+
+#### 𝐍𝐋𝐏 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
+| **NLP Projects**                   | **Repository**   | **Tech Stack & Tools**                          |
+|:-------------------------------|:----------------:|:-----------------------------------------------|
+| Word Embedding With NN         | [View](https://github.com/PawarMukesh/Word-Enbedding-With-NN)         | `NLP`, `Python`                                |
+| NLP Text PreProcessing         | [View](https://github.com/PawarMukesh/NLP-Text-PreProcessing)         | `NLP`, `Python`                                |
+
+
+#### 𝐈𝐦𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
+| **Image processing Projects**                   | **Repository**   | **Tech Stack & Tools**                          |
+|:-------------------------------|:----------------:|:-----------------------------------------------|
+| OpenCV                         | [View](https://github.com/PawarMukesh/OpenCV)                         | `OpenCV`, `Python`                             |
 
 
 ## 📈  𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
