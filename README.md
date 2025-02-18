@@ -1,5 +1,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=PawarMukesh&style=for-the-badge&color=orange)
 [![PawarMukesh;s stars](https://img.shields.io/github/stars/pawarmukesh?color=DAF7A6&style=for-the-badge&logo=https://github.com/PawarMukesh/repo/raw/main/path/to/your/image.png)](https://github.com/PawarMukesh?tab=repositories&sort=stargazers)
+![Followers](https://img.shields.io/github/followers/pawarmukesh?style=for-the-badge&color=orange)
+
+
 
 <h1 align="center">  𝐇𝐞𝐥𝐥𝐨,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
