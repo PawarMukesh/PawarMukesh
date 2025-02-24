@@ -38,7 +38,7 @@
 [![Quora](https://img.shields.io/badge/Quora-f1c175?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Mukesh-D-Pawar-1)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-00818e?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19405928/mukesh-pawar)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-f1c175?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mukeshpa29f2/?ref=header_profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00818e?style=for-the-badge&logo=linkedin&logoColor=white)](https://pawarmukesh.github.io/MukeshPawarPortfolio.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00818e?style=for-the-badge&logo=linkedin&logoColor=white)](https://mukeshpawar-datascience-hub.netlify.app/)
 
 
 ## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
