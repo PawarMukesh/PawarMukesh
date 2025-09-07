@@ -12,9 +12,7 @@
 # <img align="right" alt="coding" width="300" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 
-
-*I'm **Mukesh Pawar**, a recent **Msc. PostGraduate  in Data Science and Spatial Analytics at SIG, Pune. In July 2024**, I completed an internship focusing on **Generative AI and Large Language Models (LLMs)**, gaining hands-on experience in developing and fine-tuning AI models to solve real-world challenges. Earlier, in **2023, I completed specialized Data Science and AI training in Bangalore**. I blend my passion for data science, where I uncover patterns and tackle complex challenges, with my love for **cooking, designing each meal with care in flavor and texture**.* 
-
+ *I’m Mukesh Pawar, a recent MSc graduate in Data Science and Spatial Analytics from SIG, Pune. In July 2024, I completed an internship on Generative AI and Large Language Models (LLMs), where I gained hands-on experience in building and fine-tuning models to address real-world problems. Before that, in 2023, I finished specialized Data Science and AI training in Bangalore.*
 
 📝 *I'm currently dedicated to enhancing my expertise in data science*.
 
