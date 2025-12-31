@@ -12,7 +12,7 @@
 # <img align="right" alt="coding" width="300" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 
- *I’m Mukesh Pawar, a recent MSc graduate in Data Science and Spatial Analytics from SIG, Pune. In July 2024, I completed an internship on Generative AI and Large Language Models (LLMs), where I gained hands-on experience in building and fine-tuning models to address real-world problems. Before that, in 2023, I finished specialized Data Science and AI training in Bangalore.*
+*I’m Mukesh Pawar, an MSc graduate in Data Science and Spatial Analytics from SIG, Pune, currently working at Ampcus Inc. in an AI/ML Software role. I have hands-on experience in building, fine-tuning, and deploying machine learning and Generative AI models to solve real-world problems.*
 
 📝 *I'm currently dedicated to enhancing my expertise in data science*.
 
