@@ -14,9 +14,7 @@
 
 *I’m Mukesh Pawar, an MSc graduate in Data Science and Spatial Analytics from SIG, Pune, currently working at Ampcus Inc. in an AI/ML Software role. I have hands-on experience in building, fine-tuning, and deploying machine learning and Generative AI models to solve real-world problems.*
 
-📝 *I'm currently dedicated to enhancing my expertise in data science*.
-
-❓*Curious about Data Science (AI/ML)?.*
+📝 *I'm currently dedicated to enhancing my expertise in data science & AI/ML*
 
 ⚡ *Fun fact: My day often starts with reading a research paper, then I dive into writing algorithms, and by evening, I'm coding them up. It is really fun! 🙂*.
 
