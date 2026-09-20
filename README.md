@@ -12,13 +12,13 @@
 # <img align="right" alt="coding" width="300" src="https://github.com/PawarMukesh/PawarMukesh/blob/mukesh/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 
-*I’m Mukesh Pawar, an MSc graduate in Data Science and Spatial Analytics from SIG, Pune, currently working at Ampcus Inc. in an AI/ML Software role. I have hands-on experience in building, fine-tuning, and deploying machine learning and Generative AI models to solve real-world problems.*
+*I’m Mukesh Pawar, an MSc graduate in Data Science & Spatial Analytics from SIG, Pune, currently working at Ampcus Inc. in an AI/ML Software role.*
 
-📝 *I'm currently dedicated to enhancing my expertise in data science & AI/ML*
+*I have hands-on experience in building, fine-tuning, and deploying Machine Learning and Generative AI models to solve real-world problems and develop intelligent, data-driven solutions.*
 
-⚡ *Fun fact: My day often starts with reading a research paper, then I dive into writing algorithms, and by evening, I'm coding them up. It is really fun! 🙂*.
+📝 *Currently: Continuously expanding my expertise in Data Science, AI/ML, and Generative AI, while staying curious about emerging technologies and research.*
 
-
+⚡ *Fun fact: My day often begins with reading a research paper, followed by exploring ideas and designing algorithms—and by evening, I’m turning those concepts into working code. From research → algorithms → implementation, that’s what makes AI so exciting to me! 🙂*
 
 ## <img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100"> 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 !
 
